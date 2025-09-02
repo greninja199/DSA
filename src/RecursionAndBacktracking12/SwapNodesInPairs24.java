@@ -1,6 +1,6 @@
 package RecursionAndBacktracking12;
 
-import LinkedList9.ListNode;
+import Day1_10.LinkedList9.ListNode;
 
 public class SwapNodesInPairs24 {
     public ListNode swapPairs(ListNode head) {

@@ -1,0 +1,11 @@
+package Day1_10.HashMapAndHashSet;
+
+
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int x) {
+        val = x;
+        next = null;
+    }
+}
